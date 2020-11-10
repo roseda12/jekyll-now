@@ -16,4 +16,4 @@ These lessons are geared towards high school students, but anyone interested in 
 
 ### Pedagogy
 
-These lessons were created using the same pedagogical approaches as [Facing History](https://www.facinghistory.org/) and [Teaching Tolerance](https://www.tolerance.org/), both of which emphasize emphathy and social justice.
+These lessons were created using the same pedagogical approaches as [Facing History](https://www.facinghistory.org/) and [Teaching Tolerance](https://www.tolerance.org/), both of which emphasize empathy and social justice.
