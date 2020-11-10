@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About the Project
 
-### More Information
+This is a teaching resource focusing on the riots that occurred in Boston's Roxbury neighborhood in 1967. Using digital resources and lesson plans, teachers can use these resources for classroom discussions. Some questions that will be addressed in the lessons:
+* How did different newspapers cover the events?
+* How did the Boston riots compare to similar events around the country during the summer of 1967?
 
-A place to include any other types of information that you'd like to include about yourself.
+### Audience
 
-### Contact me
+These lessons are geared towards high school students, but anyone interested in the topic is welcome to explore the site!
 
-[email@domain.com](mailto:email@domain.com)
+### Pedagogy
+
+These lessons were created using the same pedagogical approaches as [Facing History](https://www.facinghistory.org/) and [Teaching Tolerance](https://www.tolerance.org/), both of which emphasize emphathy and social justice.
